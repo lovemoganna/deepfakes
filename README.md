@@ -115,6 +115,8 @@ Russell log 任务Id
 ### 9.最终输出的目录
 ![](http://upload-images.jianshu.io/upload_images/7505161-daf4ff5c5ff70ade.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+上面就是我之前展示成果的目录下的,一张比较融合完整的一张图片了...
+
 ## 3.结语
 
 多试试,也挺好的.
